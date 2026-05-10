@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-<sub>`✦  FULL STACK DEVELOPER  ·  LARAVEL  ·  REACT  ·  REST APIs  ✦`</sub>
+## `✦  FULL STACK DEVELOPER  ·  LARAVEL  ·  REACT  ·  REST APIs  ✦`
 
 <br/>
 
@@ -30,9 +30,7 @@
 
 <img src="https://raw.githubusercontent.com/Souhail-EL-FENGOUR/Souhail-EL-FENGOUR/main/assets/brain.jpg" width="220"/>
 
-<br/>
-
-### `[ LOGIC · CODE · BUILD ]`
+<sub>`[ LOGIC · CODE · BUILD ]`</sub>
 
 </td>
 <td valign="top">
@@ -64,16 +62,24 @@ while (alive) {
 
 ---
 
-## `$ ls ./tech-stack`
+### `$ ls ./tech-stack`
 
 <br/>
 
 <div align="center">
 
-| | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>**HTML5** | <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>**CSS3** | <img src="https://skillicons.dev/icons?i=js" width="48"/><br/>**JavaScript** | <img src="https://skillicons.dev/icons?i=ts" width="48"/><br/>**TypeScript** | <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>**React** | <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>**Tailwind** |
-| <img src="https://skillicons.dev/icons?i=php" width="48"/><br/>**PHP** | <img src="https://skillicons.dev/icons?i=laravel" width="48"/><br/>**Laravel** | <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>**Python** | <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>**MySQL** | <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>**Git** | |
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
@@ -96,7 +102,7 @@ while (alive) {
   {
     "name":   "Livrano",
     "status": "WIP",
-    "stack":  ["Laravel", "React", "MySQL"],
+    "stack":  ["React", "Supabase"],
     "desc":   "Logistics SaaS. Starts with an idea. Ends with 47 tables and existential dread."
   }
 ]
