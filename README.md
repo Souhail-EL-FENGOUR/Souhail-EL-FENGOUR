@@ -34,3 +34,10 @@
 ## 📫 Connect with me
 - 📧 souhailelfengour@gmail.com
 - 💼 LinkedIn: [Souhail El Fengour](https://www.linkedin.com/in/souhail-el-fengour)
+
+---
+
+## 📊 GitHub Stats
+![Souhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souhail-EL-FENGOUR&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souhail-EL-FENGOUR&layout=compact&theme=tokyonight)
