@@ -38,6 +38,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Souhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souhail-EL-FENGOUR&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souhail-EL-FENGOUR&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Souhail-EL-FENGOUR&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souhail-EL-FENGOUR&layout=compact&theme=tokyonight)
