@@ -1,134 +1,150 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d0d0d&height=200&text=SOUHAIL%20EL-FENGOUR&fontSize=54&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20React%20%7C%20REST%20APIs&descSize=14&descColor=555555&descAlignY=68)](https://github.com/Souhail-EL-FENGOUR)
+<!-- BANNER — host at assets/banner.png -->
+<img src="https://raw.githubusercontent.com/Souhail-EL-FENGOUR/Souhail-EL-FENGOUR/main/assets/banner.png" width="100%" alt="Souhail El Fengour Banner"/>
 
-![Stars](https://img.shields.io/github/stars/Souhail-EL-FENGOUR?style=flat-square&label=%E2%98%85%20STARS&color=000000&labelColor=111111&logoColor=ffffff)
-&nbsp;
-![Repos](https://img.shields.io/badge/REPOS-5-000000?style=flat-square&labelColor=111111)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/Souhail-EL-FENGOUR?style=flat-square&label=FOLLOWERS&color=000000&labelColor=111111&logoColor=ffffff)
+<br/>
+<br/>
+
+<sub>`✦  FULL STACK DEVELOPER  ·  LARAVEL  ·  REACT  ·  REST APIs  ✦`</sub>
+
+<br/>
+
+![Stars](https://img.shields.io/github/stars/Souhail-EL-FENGOUR?style=flat-square&label=%E2%98%85+STARS&color=0d1117&labelColor=161b22&logoColor=fff)
+![Repos](https://img.shields.io/badge/REPOS-5-0d1117?style=flat-square&labelColor=161b22)
+![Followers](https://img.shields.io/github/followers/Souhail-EL-FENGOUR?style=flat-square&label=FOLLOWERS&color=0d1117&labelColor=161b22)
+
+<br/>
+
+---
 
 </div>
 
----
+### `$ whoami`
 
 <br/>
 
-### Know About Me
+<table>
+<tr>
+<td width="240" valign="top" align="center">
 
-<!--
-  IMAGE SETUP:
-  1. Rename brain.jpg → assets/brain.jpg in your repo
-  2. git add assets/brain.jpg && git commit -m "add brain illustration"
-  3. The image renders automatically from the raw URL below
--->
-
-<img align="left" src="https://raw.githubusercontent.com/Souhail-EL-FENGOUR/Souhail-EL-FENGOUR/main/assets/brain.jpg" width="220" alt="brain circuit illustration" />
-
-**Hey, I'm Souhail.**
-
-I'm a Full Stack Developer obsessed with clean architecture and systems that actually scale.
-
-By day, I'm building **Livrano** — a Logistics SaaS platform that shouldn't exist yet.
-By night, I'm deep in Laravel internals wondering why I chose this life.
-
-When I'm not chasing N+1 queries, I'm fighting perfectionism over a codebase that will look embarrassing in two years anyway.
-
-- 🔧 Backend architecture — databases, APIs, systems thinking
-- ⚡ React on the frontend, when I care about design
-- 📦 Currently: making **Livrano** real, one painful migration at a time
-- 🧠 Clean code isn't a preference — it's a moral obligation
-
-<br clear="left"/>
-
----
+<img src="https://raw.githubusercontent.com/Souhail-EL-FENGOUR/Souhail-EL-FENGOUR/main/assets/brain.jpg" width="220"/>
 
 <br/>
 
-### Top Projects *(built with questionable sleep schedules)*
+### `[ LOGIC · CODE · BUILD ]`
 
-[![Bank-x](https://img.shields.io/badge/⬡_Bank--x-000000?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Souhail-EL-FENGOUR/Bank-x)
-&nbsp; Full-featured banking simulation — building imaginary money is cheaper than earning real money.
+</td>
+<td valign="top">
 
-[![Livrano](https://img.shields.io/badge/⬡_Livrano_(WIP)-000000?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Souhail-EL-FENGOUR/livrano)
-&nbsp; Logistics SaaS platform. Starts with "I have an idea." Ends with a 47-table schema and existential dread.
+Hey, I'm **Souhail** — a Full Stack Developer obsessed with clean architecture and systems that actually scale.
 
-[![Profile](https://img.shields.io/badge/⬡_This_README-000000?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Souhail-EL-FENGOUR/Souhail-EL-FENGOUR)
-&nbsp; The README you're reading right now. Meta? Yes. Necessary? Debatable.
+Currently building **Livrano** — a Logistics SaaS platform. By day I architect APIs and tame databases. By night I stare at Laravel source code questioning my life choices.
+
+```js
+while (alive) {
+    learn();   // always
+    build();   // obsessively
+    debug();   // mostly this
+}
+```
+
+```
+→  Backend — APIs, databases, clean architecture
+→  React when pixels need to make sense
+→  Building Livrano one migration at a time
+→  Clean code is a moral obligation, not a preference
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-<br/>
-
-### Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=ffffff)
-![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=ffffff)
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ffffff)
-
-</div>
-
----
-
-<br/>
-
-### Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Souhail-EL-FENGOUR)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/souhail-el-fengour)
-&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:souhail.elfengour@gmail.com)
-
-</div>
-
-<br/>
-
-> *Code is never finished. It only becomes slightly less terrible over time.*
->
-> *Someday I will return to this codebase, look at the spaghetti I've written,*
-> *and wonder who let me anywhere near a keyboard.*
-
----
-
-<br/>
-
-### Contribution
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Souhail-EL-FENGOUR&theme=dark&background=00000000&border=333333&stroke=eeeeee&ring=eeeeee&fire=eeeeee&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=555555&sideLabels=555555&dates=444444)
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Souhail-EL-FENGOUR&bg_color=00000000&color=666666&line=dddddd&point=ffffff&area=true&area_color=1a1a1a&hide_border=false&border_color=333333&title_color=ffffff&custom_title=Souhail's%20Contribution%20Graph)
-
-</div>
-
----
+## `$ ls ./tech-stack`
 
 <br/>
 
 <div align="center">
 
-*"In order to understand recursion, one must first understand recursion."*
+| | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>**HTML5** | <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>**CSS3** | <img src="https://skillicons.dev/icons?i=js" width="48"/><br/>**JavaScript** | <img src="https://skillicons.dev/icons?i=ts" width="48"/><br/>**TypeScript** | <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>**React** | <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>**Tailwind** |
+| <img src="https://skillicons.dev/icons?i=php" width="48"/><br/>**PHP** | <img src="https://skillicons.dev/icons?i=laravel" width="48"/><br/>**Laravel** | <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>**Python** | <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>**MySQL** | <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>**Git** | |
 
-&nbsp;&nbsp;&nbsp;— Anonymous
+</div>
 
 <br/>
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=90&section=footer)](https://github.com/Souhail-EL-FENGOUR)
+---
+
+### `$ cat ./projects.json`
+
+<br/>
+
+```json
+[
+  {
+    "name":  "Bank-x",
+    "stack": ["JavaScript"],
+    "url":   "github.com/Souhail-EL-FENGOUR/Bank-x",
+    "desc":  "Full-featured banking simulation — building imaginary money is cheaper than earning real money."
+  },
+  {
+    "name":   "Livrano",
+    "status": "WIP",
+    "stack":  ["Laravel", "React", "MySQL"],
+    "desc":   "Logistics SaaS. Starts with an idea. Ends with 47 tables and existential dread."
+  }
+]
+```
+
+<br/>
+
+---
+
+### `$ git log --graph`
+
+<br/>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Souhail-EL-FENGOUR&theme=dark&background=0d1117&border=30363d&stroke=ffffff&ring=3fb950&fire=3fb950&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6e7681&sideLabels=6e7681&dates=6e7681)
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Souhail-EL-FENGOUR&bg_color=0d1117&color=6e7681&line=3fb950&point=ffffff&area=true&area_color=161b22&hide_border=false&border_color=30363d&title_color=ffffff&custom_title=contribution+graph)
+
+</div>
+
+<br/>
+
+---
+
+### `$ connect --all`
+
+<br/>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souhail-EL-FENGOUR)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/souhail-el-fengour)
+[![Gmail](https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souhail.elfengour@gmail.com)
+
+<br/>
+
+---
+
+<br/>
+
+*"In order to understand recursion,*
+*one must first understand recursion."*
+
+`— Anonymous`
+
+<br/>
 
 </div>
