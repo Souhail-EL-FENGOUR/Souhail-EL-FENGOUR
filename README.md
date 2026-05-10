@@ -24,7 +24,6 @@
 
 ### 🗄️ Database
 - 🛢️ SQL
-- 🍃 MongoDB
 
 ### ⚙️ Tools & Version Control
 - 🐙 Git
